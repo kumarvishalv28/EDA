@@ -57,45 +57,25 @@ This project is hosted on **Streamlit Community Cloud**.
 
 ---
 
-## 🖼️ Screenshots
-
-### 📌 Homepage
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Homepage.jpg?raw=true" width="800"/>
-
-### 📤 File Uploaded
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/File%20Uploaded.jpg?raw=true" width="800"/>
-
-### 📑 Cleaned CSV File
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Cleaned%20CSV%20File.jpg?raw=true" width="800"/>
-
-### 🧮 Summary Statistics
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Summary.jpg?raw=true" width="800"/>
-
-### 🔥 Correlation Heatmap
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Correlaton%20Heatmap.jpg?raw=true" width="800"/>
-
-### 🧩 Missing Value Heatmap
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Missing%20Value%20Heatmap.jpg?raw=true" width="800"/>
-
-### 📉 Univariate Plot
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Univariate%20Plot.jpg?raw=true" width="800"/>
-
-### 📦 Boxplot
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Boxplot.jpg?raw=true" width="800"/>
-
-### 🔗 Pairplot
-
-<img src="https://github.com/kumarvishalv28/EDA/blob/main/Pairplot%20.jpg?raw=true" width="800"/>
-
----
+🖼️ Screenshots
+📌 Homepage
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Homepage.jpg?raw=true" width="800"/>
+📤 File Uploaded
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/File%20Uploaded.jpg?raw=true" width="800"/>
+📑 Cleaned CSV File
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Cleaned%20CSV%20File.jpg?raw=true" width="800"/>
+🧮 Summary Statistics
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Summary.jpg?raw=true" width="800"/>
+🔥 Correlation Heatmap
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Correlaton%20Heatmap.jpg?raw=true" width="800"/>
+🧩 Missing Value Heatmap
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Missing%20Value%20Heatmap.jpg?raw=true" width="800"/>
+📉 Univariate Plot
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Univariate%20Plot.jpg?raw=true" width="800"/>
+📦 Boxplot
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Boxplot.jpg?raw=true" width="800"/>
+🔗 Pairplot
+<img src="https://github.com/kumarvishalv28/EDA/blob/main/screenshots/Pairplot%20.jpg?raw=true" width="800"/>
 
 ## 📚 Project Title
 
